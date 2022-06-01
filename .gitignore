@@ -1,0 +1,3 @@
+*.log
+!VIP.log
+node_Package/
